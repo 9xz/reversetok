@@ -1,0 +1,8 @@
+/target/
+**/.idea/
+**/node_modules/
+**/__pycache__/
+**/*.egg-info/
+*.pyc
+*.tsbuildinfo
+.DS_Store
