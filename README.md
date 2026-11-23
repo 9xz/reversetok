@@ -6,8 +6,7 @@ TikTok's Android request signing, reimplemented in Python, TypeScript and Rust.
 
 Targets `com.zhiliaoapp.musically` 47.7.2 (version code `2024707020`, MetaSec SDK v05.03.04).
 
-> [!IMPORTANT]
-> **Need TikTok automation in production?** This repo is a snapshot of one app version and won't be updated as new builds ship. [**Distilled**](https://distilled.cx) runs real ARM64 Android phones in the cloud with hardware-backed device identities, mobile proxies, and API, MCP and ADB control.
+# Tiktok has updated Argus as of this message. This repository is no longer latest with TikTok.
 
 ## What's here
 
